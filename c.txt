@@ -1,0 +1,10 @@
+
+
+birds
+trees
+houses
+
+def fetch_resourses():
+	pass
+
+
